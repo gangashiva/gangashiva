@@ -1,6 +1,6 @@
 Hi eveyone, I’m Gangashiva M N 👋 
 I'm Software Engineer
-- 🔭 I'm currently working on sofware development 
+- 🔭 I'm currently working on software development 
 - 🌱 I’m currently learning AWS and web development(ReactJS and NodeJS)
 - 📫 How to reach me ...
 
