@@ -1,0 +1,10 @@
+Hi eveyone, I’m Gangashiva M N 👋 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+gangashiva/gangashiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
